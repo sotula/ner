@@ -1,2 +1,2 @@
 # ner
-Using NER 
+First steps in using NER in Python with Spacy 
